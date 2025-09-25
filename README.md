@@ -6,11 +6,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-ff4b4b?logo=streamlit\&logoColor=white)](https://streamlit.io/)
 [![NLTK](https://img.shields.io/badge/NLTK-NLP-brightgreen?logo=academia\&logoColor=white)](https://www.nltk.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Open Issues](https://img.shields.io/github/issues/your-username/faq-chatbot)](https://github.com/your-username/faq-chatbot/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/your-username/faq-chatbot)](https://github.com/your-username/faq-chatbot/pulls)
-[![Last Commit](https://img.shields.io/github/last-commit/your-username/faq-chatbot)](https://github.com/your-username/faq-chatbot/commits/main)
-[![Contributors](https://img.shields.io/github/contributors/your-username/faq-chatbot)](https://github.com/your-username/faq-chatbot/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/your-username/faq-chatbot?style=social)](https://github.com/your-username/faq-chatbot/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/saadoxyz/faq-chatbot)](https://github.com/saadoxyz/faq-chatbot/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/saadoxyz/faq-chatbot)](https://github.com/saadoxyz/faq-chatbot/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/saadoxyz/faq-chatbot)](https://github.com/saadoxyz/faq-chatbot/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/saadoxyz/faq-chatbot)](https://github.com/saadoxyz/faq-chatbot/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/saadoxyz/faq-chatbot?style=social)](https://github.com/saadoxyz/faq-chatbot/stargazers)
 
 ---
 
